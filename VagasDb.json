@@ -1,0 +1,32 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "Desenvolver Front End Jr",
+      "foto": "foto1.jpg",
+      "descricao": "Trabalhar com:  HTML, CSS, JavaScript,  Angular",
+      "salario": 5000
+    },
+    {
+      "id": 2,
+      "nome": "Desenvolver BackEnd Pleno",
+      "foto": "foto2.jpg",
+      "descricao": "Trabalhar com: Spring Boot, Java, ter familiaridade com metodologia ágil .",
+      "salario": 7000
+    },
+    {
+      "id": 3,
+      "nome": "Desenvolver Fullstack Senior",
+      "foto": "foto3.jpg",
+      "descricao": "Trabalhar com: Angular, Java, JavaScript, HTML, CSS,  metodologia ágil ",
+      "salario": 10000
+    },
+    {
+      "id": "frge",
+      "nome": "rgerg",
+      "foto": "ee",
+      "descricao": "egrger",
+      "salario": "0rgeeg"
+    }
+  ]
+}
